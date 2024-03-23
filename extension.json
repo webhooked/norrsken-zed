@@ -1,6 +1,6 @@
 {
   "name": "Norrsken Theme",
-  "description": "Aurora-inspired theme designed to minimise eye strain and improve syntax highlighting.",
+  "description": "Aurora-inspired theme designed to minimize eye strain and improve syntax highlighting.",
   "version": "0.0.1",
   "authors": ["Webhooked <hello@webhooked.dev>"],
   "repository": "https://github.com/webhooked/norrsken-zed",
