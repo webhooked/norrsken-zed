@@ -2,6 +2,6 @@
 
 # Norrsken Theme
 
-Introducing **Norrsken**, an aurora-inspired dark theme with peppermint and tangerine colors. The theme is designed to minimize eye strain and improve syntax highlighting, making it easier for developers to read and write code.
+Introducing **Norrsken**, an aurora-inspired dark theme designed to minimize eye strain and improve syntax highlighting.
 
-Inspired by [Vesper VSCode theme](https://github.com/raunofreiberg/vesper), [Vesper Zed theme](https://github.com/bdsqqq/vesper-zed) and [Dracula theme](https://github.com/dracula/dracula-theme).
+Inspired by [Dracula theme](https://github.com/dracula/dracula-theme) and [Vesper VSCode theme](https://github.com/raunofreiberg/vesper).
