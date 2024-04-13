@@ -165,7 +165,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#7e7dfdff",
+            "color": "#37d3e0ff",
             "font_style": null,
             "font_weight": null
           },
@@ -250,7 +250,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#4fe1c5ff",
+            "color": "#b5b5feff",
             "font_style": null,
             "font_weight": null
           },
@@ -305,7 +305,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#37d3e0ff",
+            "color": "#7e7dfdff",
             "font_style": null,
             "font_weight": null
           },
@@ -321,6 +321,11 @@
           },
           "type": {
             "color": "#4fe1c5ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#707077ff",
             "font_style": null,
             "font_weight": null
           },
