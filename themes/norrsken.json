@@ -355,7 +355,7 @@
             "font_weight": null
           }
         },
-        "terminal.background": "#21222cff",
+        "terminal.background": "#191920ff",
         "terminal.foreground": "#F8F8F8ff",
         "terminal.bright_foreground": "#F8F8F8ff",
         "terminal.dim_foreground": "#B2B2B2FF",
@@ -737,7 +737,7 @@
             "font_weight": null
           }
         },
-        "terminal.background": "#21222cff",
+        "terminal.background": "#202028ff",
         "terminal.foreground": "#F8F8F8ff",
         "terminal.bright_foreground": "#F8F8F8ff",
         "terminal.dim_foreground": "#B2B2B2FF",
@@ -1119,7 +1119,7 @@
             "font_weight": null
           }
         },
-        "terminal.background": "#21222cff",
+        "terminal.background": "#292934ff",
         "terminal.foreground": "#F8F8F8ff",
         "terminal.bright_foreground": "#F8F8F8ff",
         "terminal.dim_foreground": "#B2B2B2FF",
